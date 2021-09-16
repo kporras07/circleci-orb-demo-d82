@@ -42,4 +42,4 @@ workflows:
       - pantheon/composer_lock_updater
 
 orbs:
-  pantheon: kporras07/pantheon-circleci@0.0.17
+  pantheon: kporras07/pantheon-circleci@0.0.18
